@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:oneshot="false">
+    
+    <item android:drawable="@drawable/eat_00"  android:duration="100"/>
+    <item android:drawable="@drawable/eat_01"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_02"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_03"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_04"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_05"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_06"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_07"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_08"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_09"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_10"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_11"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_12"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_13"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_14"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_15"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_16"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_17"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_18"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_19"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_20"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_21"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_22"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_23"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_24"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_25"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_26"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_27"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_28"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_29"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_30"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_31"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_32"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_33"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_34"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_35"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_36"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_37"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_38"  android:duration="100"/>
+	<item android:drawable="@drawable/eat_39"  android:duration="100"/>
+
+</animation-list>
+
